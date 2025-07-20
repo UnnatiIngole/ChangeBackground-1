@@ -1,0 +1,23 @@
+
+.head{
+    display:flex;
+    flex-direction: row;
+    flex: space-around;
+}
+.box{
+    margin: 80px;
+    padding: 80px;
+    border: 2px solid black;
+}
+#green{
+background-color: green;
+}
+#white{
+background-color: white;
+}
+#blue{
+background-color: blue;
+}
+#yellow{
+background-color: yellow;
+}
